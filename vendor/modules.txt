@@ -1,0 +1,6 @@
+# github.com/distribution/distribution/v3 v3.0.0-20230223072852-e5d5810851d1
+## explicit; go 1.18
+github.com/distribution/distribution/v3/reference
+# github.com/opencontainers/go-digest v1.0.0
+## explicit; go 1.13
+github.com/opencontainers/go-digest

@@ -1,0 +1,4 @@
+github.com/distribution/distribution/v3 v3.0.0-20230223072852-e5d5810851d1 h1:OtfRoaZ54jKZ7jl9WuxqekousLR9T63iJf0y2EdC2S4=
+github.com/distribution/distribution/v3 v3.0.0-20230223072852-e5d5810851d1/go.mod h1:r5XLH1cp+Wau2jxdptkYsFvvvzPPQTIe8eUuQ0vq30Q=
+github.com/opencontainers/go-digest v1.0.0 h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=
+github.com/opencontainers/go-digest v1.0.0/go.mod h1:0JzlMkj0TRzQZfJkVvzbP0HBR3IKzErnv2BNG4W4MAM=
